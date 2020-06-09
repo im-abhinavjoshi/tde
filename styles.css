@@ -79,7 +79,7 @@ body {
   border-bottom-color: #fff;
 }
 
-@media (min-width: 40em) {
+@media (min-width: 48em) {
   .masthead-brand {
     float: left;
   }
